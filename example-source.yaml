@@ -10,4 +10,4 @@ spec:
     /*
     !/part4
   ref:
-    branch: master
+    branch: main
