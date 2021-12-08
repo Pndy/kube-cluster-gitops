@@ -7,7 +7,7 @@ spec:
   interval: 5m
   chart:
     spec:
-      chart: nats
+      chart: nats/nats
       version: '2.4.0'
       sourceRef:
         kind: HelmRepository
