@@ -8,6 +8,6 @@ spec:
     kind: GitRepository
     name: example-repo
   interval: 10m
-  path: ./part4/postgres
+  path: ./part4/pingpong
   prune: true
   validation: client
